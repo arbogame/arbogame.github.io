@@ -349,3 +349,4 @@ yandex.com, 37982190, RESELLER
 mars.media, 1010463, RESELLER
 appnexus.com, 13074, RESELLER, f5ab79cb980f11d1
 gitberry.com, IG3S1B, RESELLE
+vungle.com, 61e7c6742380520017734426, DIRECT, c107d686becd2d77
